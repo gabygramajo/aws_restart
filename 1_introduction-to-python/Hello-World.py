@@ -1,1 +1,1 @@
-print(typeof("Hello, World"))
+print("Hello, World")
