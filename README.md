@@ -1,2 +1,2 @@
 # aws_restart
-Repository for the aws_restart 2024 program
+Repository for the aws restart 2024 program
